@@ -46,14 +46,14 @@ This application blends technical skills with a human-centered approach to creat
 ### 🌄 Environment Selection Pge
 ![Screenshot 2](Screenshot%20(2).png)
 
-### 🎮 Forest Scene
+### 🌲 Forest Environment
 ![Screenshot 3](Screenshot%20(3).png)
 
-### 🧠 Calm Scene Experience
+### 🌊 Beach Environment
 ![Screenshot 4](Screenshot%20(4).png)
 
-### 🔊 Audio-Integrated Session
+### 🗻 Mountain Environment
 ![Screenshot 5](Screenshot%20(5).png)
 
-### 📦 Scene Overview in Unity
+### 🌄 Morning Scene
 ![Screenshot 6](Screenshot%20(6).png)
