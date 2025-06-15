@@ -38,3 +38,22 @@ This application blends technical skills with a human-centered approach to creat
 - **Audio Integration** (For guided relaxation sessions)
 
 ---
+## 📸 Screenshots
+
+### 🧘‍♀️ Guided Relaxation Interface
+![Screenshot 1](Screenshot%20(1).png)
+
+### 🌄 VR Environment View
+![Screenshot 2](Screenshot%20(2).png)
+
+### 🎮 Interaction Controls
+![Screenshot 3](Screenshot%20(3).png)
+
+### 🧠 Calm Scene Experience
+![Screenshot 4](Screenshot%20(4).png)
+
+### 🔊 Audio-Integrated Session
+![Screenshot 5](Screenshot%20(5).png)
+
+### 📦 Scene Overview in Unity
+![Screenshot 6](Screenshot%20(6).png)
