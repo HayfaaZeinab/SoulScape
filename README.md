@@ -38,17 +38,3 @@ This application blends technical skills with a human-centered approach to creat
 - **Audio Integration** (For guided relaxation sessions)
 
 ---
-
-## 📂 Project Structure
-
-```bash
-SoulScape/
-├── Assets/
-│   ├── Scenes/            # Unity scenes
-│   ├── Scripts/           # C# scripts for interaction
-│   ├── Prefabs/           # Environment and UI prefabs
-├── ProjectSettings/
-├── Packages/
-├── README.md
-├── .gitignore
-
