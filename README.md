@@ -12,7 +12,7 @@ This application blends technical skills with a human-centered approach to creat
 
 ## ✨ Features
 
-- 🧘‍♀️ **Immersive Relaxation Environments**  
+- 🧘‍♀️ **Immersive Relaxation Environmens**  
   Users can choose from calming VR scenes (forest, beach, etc.) designed for mental wellness.
 
 - 🎧 **Guided Audio Sessions**  
@@ -40,13 +40,13 @@ This application blends technical skills with a human-centered approach to creat
 ---
 ## 📸 Screenshots
 
-### 🧘‍♀️ Guided Relaxation Interface
+### 🧘‍♀️ Start Page
 ![Screenshot 1](Screenshot%20(1).png)
 
-### 🌄 VR Environment View
+### 🌄 Environment Selection Pge
 ![Screenshot 2](Screenshot%20(2).png)
 
-### 🎮 Interaction Controls
+### 🎮 Forest Scene
 ![Screenshot 3](Screenshot%20(3).png)
 
 ### 🧠 Calm Scene Experience
